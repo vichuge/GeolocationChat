@@ -6,4 +6,4 @@ Este fue el inicio de un proyecto web. Es un gestor de salas de chat que influye
 El proyecto fue hecho con PHP y CodeIgniter como framework, la parte visual con materialize y materialized como template. Mysql es el motor de la base de datos.
 
 ## License
-Código fuente hecho por mi. victor.hugo.pacheco.flores@gmail.com
+Código fuente hecho por mi.
